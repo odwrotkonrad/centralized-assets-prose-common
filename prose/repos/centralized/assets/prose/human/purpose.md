@@ -2,7 +2,7 @@
 
 ## What It Is
 
-Semver-tagged home of the prose written for humans: every repo's `README.md.ontoRepo.tpl` and its supplemental docs under `prose/repos/<repo-path>/`, and the canonical MIT `license/LICENSE`. Consumers render it through `centralized/assets/generic`'s `generic/filesTracked` profile.
+Semver-tagged home of the prose written for humans: every repo's `README.md.ontoRepo.tpl` and its supplemental docs under `prose/repos/<repo-path>/`, and the canonical MIT `shared/license/LICENSE`. Consumers render it through `centralized/assets/generic`'s `generic/filesTracked` profile.
 
 ## Why It Exists
 
